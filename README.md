@@ -1,4 +1,4 @@
-# Don-t-Starve-Together-Dedicated-Server-Backup
+# Don't Starve Together Dedicated Server Backup
 
 This program automaticly backups your Don't Starve Together Server.
 
